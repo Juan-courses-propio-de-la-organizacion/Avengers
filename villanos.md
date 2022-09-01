@@ -4,3 +4,4 @@
 * acuaman verde
 * thanos 
 * Dr. Apaza agregado
+* Rey demonio
