@@ -17,3 +17,5 @@
 * Vision
 * Wasp
 * Antman
+* Nicol nicole
+* Bob esponja
