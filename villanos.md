@@ -5,3 +5,4 @@
 * thanos 
 * Dr. Apaza agregado
 * Rey demonio
+* Capitan maloso
